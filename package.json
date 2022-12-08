@@ -6,7 +6,7 @@
   "dependencies": {
     "dotenv-defaults": "^5.0.2"
   },
-  "description": "Get real-time finance data from https://finance.yahoo.com/.",
+  "description": "Get real-time finance data from https://stooq.com/.",
   "devDependencies": {
     "electron": "^22.0.0"
   },
