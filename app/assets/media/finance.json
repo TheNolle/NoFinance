@@ -1,0 +1,44 @@
+[
+    {
+        "symbol": "CL.F",
+        "image": "DA2NUNU",
+        "card_cl": "#000000",
+        "card_bg": "#fefefe",
+        "title": "Oil <small>per barrel</small>"
+    },
+    {
+        "symbol": "GC.F",
+        "image": "u1iAMi3",
+        "card_cl": "#000000",
+        "card_bg": "#ffd700",
+        "title": "Gold <small>per ounce</small>"
+    },
+    {
+        "symbol": "SI.F",
+        "image": "bMC1I1c",
+        "card_cl": "#000000",
+        "card_bg": "#c0c0c0",
+        "title": "Silver <small>per ounce</small>"
+    },
+    {
+        "symbol": "E2F.DE",
+        "image": "dlg6OEo",
+        "card_cl": "#000000",
+        "card_bg": "#7dF9ff",
+        "title": "Electricity <small title='in France'>per kW</small>"
+    },
+    {
+        "symbol": "TSLA.US",
+        "image": "1cH8wAo",
+        "card_cl": "#000000",
+        "card_bg": "#cc0000",
+        "title": "Tesla <small>per action</small>"
+    },
+    {
+        "symbol": "AMZN.US",
+        "image": "Uj5nbOx",
+        "card_cl": "#000000",
+        "card_bg": "#ff9900",
+        "title": "Amazon <small>per action</small>"
+    }
+]
