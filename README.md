@@ -1,6 +1,6 @@
 # NoFinance
 
-Get real-time finance data from https://stooq.com/.
+Get real-time finance data from https://stooq.com/.<br>
 `Watch out, you are daily rate limited, but i've implemented a caching system so if it's achieved, you will get the latest saved informations`
 
 Add your own finance you want to follow in '[finance.json](app/assets/media/finance.json)' by following the plan:
